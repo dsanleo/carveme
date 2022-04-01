@@ -2,9 +2,10 @@
 
 ![CarveMe](logo_300px.png)
 
-## Genome-scale metabolic model reconstruction with CarveMe
+## Forked version of Genome-scale metabolic model reconstruction with CarveMe
 
 CarveMe is a python-based tool for genome-scale metabolic model reconstruction.
+This modification includes the usage with Gurobi Solver and the generation of universes based taxonomy selection or species selection.
 
 ### Documentation
 
