@@ -13,10 +13,7 @@ For more details please check: http://carveme.readthedocs.io/
  
 ### Installation
 
-Can be easily installed using **pip**:
-```
-pip install carveme
-```
+TODO 
 
 Additionally, you must install diamond and Gurobi (please check the documentation for details). 
 
