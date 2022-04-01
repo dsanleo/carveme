@@ -18,18 +18,5 @@ Can be easily installed using **pip**:
 pip install carveme
 ```
 
-Additionally, you must install diamond and CPLEX (please check the documentation for details). 
+Additionally, you must install diamond and Gurobi (please check the documentation for details). 
 
-### Credits and License
-
-For citation purposes please refer to our paper:
-
-D. Machado et al, "Fast automated reconstruction of genome-scale metabolic models for microbial species and communities", Nucleic Acids Research, gky537, 2018. doi: https://doi.org/10.1093/nar/gky537
-
-Developed at:
-- European Molecular Biology Laboratory (2017-2019).
-- Norwegian University of Science and Technology (Since 2020)
-
-CarveMe is now an official service of ELIXIR Norway.
-
-![ELIXIR](elixir.png)
